@@ -1,4 +1,6 @@
 # Investigating Algorithmic Stock Market Trading using Efficient Ensemble Techniques
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhaledSharif%2Fquantopian-ensemble-methods.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhaledSharif%2Fquantopian-ensemble-methods?ref=badge_shield)
+
 
 This is an assisting repository for the published paper investigating ensemble methods in algorithmic trading. [It is available publicly at this link](https://drive.google.com/file/d/0B9hY6ZTULtEcbFdrQjhBbWh5ZXM/view?usp=sharing). It was written by Khaled Sharif and Mohammad Abu-Ghazaleh, and was supervised by Dr Ramzi Saifan. Below is a brief overview of the paper contents, in addition to a summary of the code and results of the paper.
 
@@ -273,3 +275,7 @@ Table 3: The table below compares the average values of the volatility and maxim
 |        Random Forest Classifier       |          0.24         |          0.35          |         11.55%        |         21.45%         |
 | Extremely Randomized Trees Classifier |          0.23         |          0.49          |         11.69%        |         25.25%         |
 |      Gradient Boosting Classifier     |          0.22         |          0.38          |         24.00%        |         24.02%         |
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKhaledSharif%2Fquantopian-ensemble-methods.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKhaledSharif%2Fquantopian-ensemble-methods?ref=badge_large)
